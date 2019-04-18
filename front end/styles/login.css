@@ -1,0 +1,26 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+	max-height:100%;
+	overflow-x:scroll;
+	background-color:#eeeeee;
+}
+#main_box{
+    background-color:#bfbfbf;
+    position: absolute;
+    top: 120px;
+    right: 450px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #bfbfbf;
+}
+
+#login_boxes{ 
+    position: absolute;
+    top: 120px;
+    right: 10px;
+}
+
+
